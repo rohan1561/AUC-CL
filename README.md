@@ -1,7 +1,7 @@
 
 # Self-Supervised Vision: AUC-CL
 
-PyTorch implementation and pretrained models for AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning
+PyTorch implementation and pretrained models for [AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning](https://openreview.net/forum?id=YgMdDQB09U&referrer=%5Bthe%20profile%20of%20Kaiyi%20Ji%5D(%2Fprofile%3Fid%3D~Kaiyi_Ji1)
 
 ## Training Cifar
 To train a ResNet-50 model on the Cifar-10 dataset, run the following
