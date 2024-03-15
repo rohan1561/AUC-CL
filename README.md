@@ -1,6 +1,5 @@
 
 # AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning
-
 PyTorch implementation for [AUC-CL](https://openreview.net/forum?id=YgMdDQB09U&referrer=%5Bthe%20profile%20of%20Kaiyi%20Ji%5D(%2Fprofile%3Fid%3D~Kaiyi_Ji1).
 
 ## Training Cifar
