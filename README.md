@@ -1,7 +1,7 @@
 
 # AUC-CL: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning
 
-PyTorch implementation for [AUC-CL](https://openreview.net/forum?id=YgMdDQB09U&referrer=%5Bthe%20profile%20of%20Kaiyi%20Ji%5D(%2Fprofile%3Fid%3D~Kaiyi_Ji1)
+PyTorch implementation for [AUC-CL](https://openreview.net/forum?id=YgMdDQB09U&referrer=%5Bthe%20profile%20of%20Kaiyi%20Ji%5D(%2Fprofile%3Fid%3D~Kaiyi_Ji1).
 
 ## Training Cifar
 To train a ResNet-50 model on the Cifar-10 dataset, run the following
@@ -33,7 +33,7 @@ python -m torch.distributed.launch --nproc_per_node=8 eval_linear.py --data_path
 This repository is released under the Apache 2.0 license as found in the [LICENSE](LICENSE) file.
 
 ## Acknowledgement
-The code for this repo is based on the [Dino code base](https://github.com/facebookresearch/dino)
+The code for this repo is based on the [Dino code base](https://github.com/facebookresearch/dino).
 
 ## Citation
 
