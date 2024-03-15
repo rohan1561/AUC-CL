@@ -35,3 +35,15 @@ This repository is released under the Apache 2.0 license as found in the [LICENS
 ## Acknowledgement
 The code for this repo is based on the [Dino code base](https://github.com/facebookresearch/dino)
 
+## Citation
+
+```
+@inproceedings{
+sharma2024auccl,
+title={{AUC}-{CL}: A Batchsize-Robust Framework for Self-Supervised Contrastive Representation Learning},
+author={Rohan Sharma and Kaiyi Ji and zhiqiang xu and Changyou Chen},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=YgMdDQB09U}
+}
+```
